@@ -1,0 +1,21 @@
+# 원천 데이터는 공개 저장소에 올리지 않는다(data/README.md 참고)
+data/*
+!data/README.md
+csv 파일/
+*.csv
+
+# Python, Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# 환경 변수
+.env
+
+# OS
+.DS_Store
+Thumbs.db
