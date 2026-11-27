@@ -1,0 +1,7 @@
+# 원래 실행 환경은 Python 3.9.6이다. plt.style.use("seaborn-v0_8")는 matplotlib 3.6 이상이 필요하다.
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.2
+matplotlib>=3.6
+seaborn>=0.12
+jupyter
